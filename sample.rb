@@ -1,5 +1,5 @@
 puts "Hello, world"
 puts "-----"
 puts "Tanaka"
-puts "Kazuaki4"
+puts "Kazuaki3,4"
 
