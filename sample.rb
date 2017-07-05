@@ -1,5 +1,5 @@
 # git zemi sample program
-# start line
+# 1st message
 puts "Hello"
 
 # 2nd message
