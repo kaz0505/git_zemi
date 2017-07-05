@@ -3,4 +3,4 @@
 puts "Hello, world"
 
 # 2nd message
-puts "Kyutech"
+puts "This is Tanaka"
